@@ -24,9 +24,9 @@ This project was undertaken as part of the Data Science course at the Faculty of
 ├──requirements.txt
 └── data
 ├── training_test
-│ ├── german_train_test.csv
+│ ├── german_train_test.txt
 └── validation
-└── german_validation.csv
+└── german_validation.txt
 ```
 
 ## Requirements
