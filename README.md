@@ -37,19 +37,12 @@ This project was undertaken as part of the Data Science course at the Faculty of
 ## How to Run
 
 1. Install the required dependencies using `pip install -r requirements.txt`.
-2. Open and run the `main_notebook.ipynb` Jupyter notebook.
+2. Open and run the `main.ipynb` Jupyter notebook.
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE) file for details.
 
-## Contributing
-
-Contributions are welcome! Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests to us.
-
-## References
-
-- Smith, J. et al. "Title of the Paper." Journal of Data Science, 2020.
 
 ## Project Status
 
