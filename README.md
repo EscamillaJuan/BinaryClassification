@@ -32,7 +32,7 @@ This project was undertaken as part of the Data Science course at the Faculty of
 ## Requirements
 
 - Python 3.7 or higher
-- Required packages: pandas, scikit-learn, matplotlib
+- Required packages: pandas, scikit-learn, matplotlib, seaborn,  numpy
 
 ## How to Run
 
