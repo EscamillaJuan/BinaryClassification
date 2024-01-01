@@ -46,4 +46,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Project Status
 
-This project is currently in development, and new features are being added. Check back for updates!
+Project completed. All planned features have been implemented, and development is now finished. Feel free to give feedback or suggestions you may have. Thank you for your interest and support!
+
